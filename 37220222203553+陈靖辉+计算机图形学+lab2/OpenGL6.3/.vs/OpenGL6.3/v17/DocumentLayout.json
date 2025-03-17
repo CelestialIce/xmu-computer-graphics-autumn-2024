@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B0D1-7800-4AEF-95D1-AD2EE80F2940}|OpenGL6.3\\OpenGL6.3.vcxproj|C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3952B0D1-7800-4AEF-95D1-AD2EE80F2940}|OpenGL6.3\\OpenGL6.3.vcxproj|solutionrelative:OpenGL6.3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B0D1-7800-4AEF-95D1-AD2EE80F2940}|OpenGL6.3\\OpenGL6.3.vcxproj|C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3952B0D1-7800-4AEF-95D1-AD2EE80F2940}|OpenGL6.3\\OpenGL6.3.vcxproj|solutionrelative:OpenGL6.3\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B0D1-7800-4AEF-95D1-AD2EE80F2940}|OpenGL6.3\\OpenGL6.3.vcxproj|C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\ImportedModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3952B0D1-7800-4AEF-95D1-AD2EE80F2940}|OpenGL6.3\\OpenGL6.3.vcxproj|solutionrelative:OpenGL6.3\\ImportedModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B0D1-7800-4AEF-95D1-AD2EE80F2940}|OpenGL6.3\\OpenGL6.3.vcxproj|C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\ImportedModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3952B0D1-7800-4AEF-95D1-AD2EE80F2940}|OpenGL6.3\\OpenGL6.3.vcxproj|solutionrelative:OpenGL6.3\\ImportedModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 321,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\Utils.h",
+              "RelativeDocumentMoniker": "OpenGL6.3\\Utils.h",
+              "ToolTip": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\Utils.h",
+              "RelativeToolTip": "OpenGL6.3\\Utils.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T07:57:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportedModel.h",
+              "DocumentMoniker": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\ImportedModel.h",
+              "RelativeDocumentMoniker": "OpenGL6.3\\ImportedModel.h",
+              "ToolTip": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\ImportedModel.h",
+              "RelativeToolTip": "OpenGL6.3\\ImportedModel.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-28T13:45:38.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\main.cpp",
+              "RelativeDocumentMoniker": "OpenGL6.3\\main.cpp",
+              "ToolTip": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\main.cpp",
+              "RelativeToolTip": "OpenGL6.3\\main.cpp",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAOwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T13:22:52.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportedModel.cpp",
+              "DocumentMoniker": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\ImportedModel.cpp",
+              "RelativeDocumentMoniker": "OpenGL6.3\\ImportedModel.cpp",
+              "ToolTip": "C:\\Users\\cjh\\source\\repos\\Conputer Graphic\\OpenGL6.3\\OpenGL6.3\\ImportedModel.cpp",
+              "RelativeToolTip": "OpenGL6.3\\ImportedModel.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T13:22:49.405Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
